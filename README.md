@@ -57,7 +57,11 @@ python validate.py /path/to/imageNet/ --model deit_tiny_patch16_224 --checkpoint
 
 ## Weigts
 [1D_DCT_Pruning_Ratio_90](https://seoultechackr-my.sharepoint.com/:u:/g/personal/jhlees_seoultech_ac_kr/Ea5Q0uzh_g9OujRQSMQbbqsBaqKxc0cH2GLLakZYIHrEPA?e=6CUimY)
+
 [1D_DCT_Pruning_Ratio_80](https://seoultechackr-my.sharepoint.com/:u:/g/personal/jhlees_seoultech_ac_kr/EdwO-MTFPm5Og6LydYtspPsBTDoAJSvaRIi4i3nnbRMQYA?e=82WEfA)
+
 [1D_DCT_Pruning_Ratio_70](https://seoultechackr-my.sharepoint.com/:u:/g/personal/jhlees_seoultech_ac_kr/ERhJwHNSXvNLkrV-ftU56iwBB2iGilqUNZCAGJuG2YHpmA?e=4SDrj1)
+
 [Tiny_Ratio_100_best](https://seoultechackr-my.sharepoint.com/:u:/g/personal/jhlees_seoultech_ac_kr/EaZUVzC_Uk9IitJ3nLOHtSMBOZ_LQevZCPPphUrwPWsEiw?e=xfa8LI)
+
 [Small_Ratio_100_best](https://seoultechackr-my.sharepoint.com/:u:/g/personal/jhlees_seoultech_ac_kr/EUEBNolUjwVAnuWKCUQ60RcBziKyJW3nyc2klto5OXA_tA?e=fTbrFE)
